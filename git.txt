@@ -2,7 +2,7 @@ git init
 git config --global user.name "username"
 git config --global user.email "emailaddress"
 git config --list    (q) 
-git status 
+git status
 git add -A / git add filename filename2
 git commit -m "message"
 create a repository in github
